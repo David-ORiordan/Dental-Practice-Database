@@ -3,8 +3,10 @@
 ### Description:   
 This project consists of a database management system created to cater for a small dentistry business.  
 A relational database was created based on the narrative prompt found in the Narrative.pdf file.  
+The database's relations satisfy the criteria for being in the first, second, and third normal form.   
 The database adheres to Codd's Rules, with the Codd's_Rule.pdf file offering evidence as to how this was demonstrated.  
-A view of the Relational Schema is found in the Relational_Schema.pdf file.  
+An image of the Entity Relationship Diagram (ERD) can be found in the Relational_Schema.pdf file.  
+Further details of the database can be found in the Project_Report.pdf file.  
 
 ### How to run:  
 Start Apache and MySQL in the XAMPP Control Panel.  
